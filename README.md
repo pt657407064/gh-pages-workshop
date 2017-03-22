@@ -15,3 +15,5 @@ git add --all
 git commit -m "Some Message"
 git push origin master
 ```    
+
+Then link your gh-pages to your domain with this [https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages](tutorial)
